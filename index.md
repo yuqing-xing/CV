@@ -24,11 +24,12 @@ Email：yuqingxing@hust.edu.cn; 2502864385@qq.com
 
 2019-2020 : Graduate, [Huazhong University of Science and Technology](http://english.hust.edu.cn/)
 
-2014-2019 : Undergraduate, [Nanchang Hangkong University](https://www.nchu.edu.cn/) 
+2014-2019 : Undergraduate, [Nanchang Hangkong University](https://www.nchu.edu.cn/)
 
 ## Publication
 
-ToBaFu: Topology-Based Fusion Model for Classification of Two-dimensional Cancer Images. Xing, Yuqing, Haodong Chen, and Quan Zheng. Neural Networks (2025): 108117.
+[ToBaFu: Topology-Based Fusion Model for Classification of Two-dimensional Cancer Images](https://www.sciencedirect.com/science/article/pii/S0893608025009979). Xing, Yuqing, Haodong Chen, and Quan Zheng. Neural Networks (2025): 108117.
+
 
 ## Presentation
 <a href="Quantification of plant leaf morphology based on TDA.pdf" target="_blank">Quantification of plant leaf morphology based on TDA</a>, January, 2022.
