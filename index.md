@@ -16,7 +16,7 @@ Chinese Name: 邢雨晴
 ## Contact
 Address: Yifu Technology Building, 1037 Luoyu Road, Wuhan, China
 
-Email：d202080021@hust.edu.cn
+Email：yuqingxing@hust.edu.cn; 2502864385@qq.com
 
 ## Education
 
@@ -26,11 +26,13 @@ Email：d202080021@hust.edu.cn
 
 2014-2019 : Undergraduate, [Nanchang Hangkong University](https://www.nchu.edu.cn/) 
 
+## Publication
+
+ToBaFu: Topology-Based Fusion Model for Classification of Two-dimensional Cancer Images. Xing, Yuqing, Haodong Chen, and Quan Zheng. Neural Networks (2025): 108117.
+
 ## Presentation
 <a href="Quantification of plant leaf morphology based on TDA.pdf" target="_blank">Quantification of plant leaf morphology based on TDA</a>, January, 2022.
 
 <a href="Persistent homology applied in leaf classifying.pdf" target="_blank">Persistent homology applied in leaf classifying</a>, November, 2021.
-
-<a href="Persistent Homology for Data of Plant Morphology.pdf" target="_blank">Persistent homology for Data of Plant Morphology</a>, May, 2021.
 
 <a href="The Seifert-van Kampen Theorem in Category.pdf" target="_blank">The Seifert-van Kampen Theorem in Category</a>, June, 2020.
