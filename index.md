@@ -1,6 +1,6 @@
 <p><img src="personal_photo.jpg" width="128" height="152" alt="Xing Yuqing - Personal Photo"/></p>
 
-I'm a PhD student in the School of Mathematics and Statistics at [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China.
+I'm Yuqing Xing, a PhD student in the School of Mathematics and Statistics at [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China.
 
 My adviser is [Quan Zheng](http://maths.hust.edu.cn/info/1094/2635.htm). 
 
