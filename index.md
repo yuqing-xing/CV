@@ -1,4 +1,4 @@
-<p><img src="personal_photo.jpg" width="128" height="151" alt="Xing Yuqing - Personal Photo"/></p>
+<p><img src="personal_photo.jpg" width="122" height="150" alt="Xing Yuqing - Personal Photo"/></p>
 
 I'm Yuqing Xing, a PhD student in the School of Mathematics and Statistics at [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China.
 
