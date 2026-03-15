@@ -29,7 +29,7 @@ Email：2502864385@qq.com; yuqingxing@hust.edu.cn
 
 ## Publication
 
-[ToBaFu: Topology-Based Fusion Model for Classification of Two-dimensional Cancer Images](https://www.sciencedirect.com/science/article/pii/S0893608025009979). Yuqing Xing,  Haodong Chen, and Quan Zheng. Neural Networks (2025): 108117.
+[ToBaFu: Topology-Based Fusion Model for Classification of Two-dimensional Cancer Images](https://www.sciencedirect.com/science/article/pii/S0893608025009979). Yuqing Xing, Haodong Chen, Quan Zheng. ToBaFu: Topology-based fusion model for classification of two-dimensional cancer images. Neural Networks, Volume 194, February 2026, 108117.
 
 
 ## Presentation
