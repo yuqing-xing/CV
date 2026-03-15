@@ -35,6 +35,4 @@ Email：yuqingxing@hust.edu.cn; 2502864385@qq.com
 ## Presentation
 <a href="Quantification of plant leaf morphology based on TDA.pdf" target="_blank">Quantification of plant leaf morphology based on TDA</a>, January, 2022.
 
-<a href="Persistent homology applied in leaf classifying.pdf" target="_blank">Persistent homology applied in leaf classifying</a>, November, 2021.
-
 <a href="The Seifert-van Kampen Theorem in Category.pdf" target="_blank">The Seifert-van Kampen Theorem in Category</a>, June, 2020.
