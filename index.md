@@ -17,7 +17,7 @@ Chinese Name: 邢雨晴
 ## Contact
 Address: Yifu Technology Building, 1037 Luoyu Road, Wuhan, China
 
-Email：yuqingxing@hust.edu.cn; 2502864385@qq.com
+Email：2502864385@qq.com; yuqingxing@hust.edu.cn
 
 ## Education
 
