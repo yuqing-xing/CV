@@ -21,7 +21,7 @@ Email：2502864385@qq.com; yuqingxing@hust.edu.cn
 
 ## Education
 
-2020- present : Ph.D. student, [Huazhong University of Science and Technology](https://english.hust.edu.cn/)
+2020-2026 : Doctor, [Huazhong University of Science and Technology](https://english.hust.edu.cn/)
 
 2019-2020 : Graduate, [Huazhong University of Science and Technology](http://english.hust.edu.cn/)
 
@@ -29,9 +29,11 @@ Email：2502864385@qq.com; yuqingxing@hust.edu.cn
 
 ## Publication
 
-Yuqing Xing, Haodong Chen, Quan Zheng. [ToBaFu: Topology-Based Fusion Model for Classification of Two-dimensional Cancer Images](https://www.sciencedirect.com/science/article/pii/S0893608025009979). Neural Networks, Volume 194, February 2026, 108117.
+1. Yuqing Xing, Haodong Chen, Quan Zheng. [ToBaFu: Topology-Based Fusion Model for Classification of Two-dimensional Cancer Images](https://www.sciencedirect.com/science/article/pii/S0893608025009979). Neural Networks, Volume 194, February 2026, 108117.
+
+2. Peng Wang, Jiayi Duan, Yuqing Xing, Ruihang Xu, Anyuan Xu, Haodong Chen, Shengchao Hu, Tao Wang, Shuang Liu. [Explainable anomaly detection and localization for ADHD in MRI using topological feature](https://www.sciencedirect.com/science/article/pii/S0031320326013129). Pattern Recognition, Volume 180, 2026, 114347.
 
 ## Presentation
-<a href="Quantification of plant leaf morphology based on TDA.pdf" target="_blank">Quantification of plant leaf morphology based on TDA</a>, February, 2022.
+1. <a href="Quantification of plant leaf morphology based on TDA.pdf" target="_blank">Quantification of plant leaf morphology based on TDA</a>, February, 2022.
 
-<a href="The Seifert-van Kampen Theorem in Category.pdf" target="_blank">The Seifert-van Kampen Theorem in Category</a>, June, 2020.
+2. <a href="The Seifert-van Kampen Theorem in Category.pdf" target="_blank">The Seifert-van Kampen Theorem in Category</a>, June, 2020.
