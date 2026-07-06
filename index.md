@@ -21,11 +21,11 @@ Email：2502864385@qq.com; yuqingxing@hust.edu.cn
 
 ## Education
 
-2020-2026 : Doctor, [Huazhong University of Science and Technology](https://english.hust.edu.cn/)
+2020.09-2026.06 : Doctor, [Huazhong University of Science and Technology](https://english.hust.edu.cn/)
 
-2019-2020 : Graduate, [Huazhong University of Science and Technology](http://english.hust.edu.cn/)
+2019.09-2020.07 : Graduate, [Huazhong University of Science and Technology](http://english.hust.edu.cn/)
 
-2014-2019 : Undergraduate, [Nanchang Hangkong University](https://www.nchu.edu.cn/)
+2014.09-2019.07 : Undergraduate, [Nanchang Hangkong University](https://www.nchu.edu.cn/)
 
 ## Publication
 
