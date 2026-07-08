@@ -4,6 +4,8 @@ I'm Yuqing Xing, and I earned my PhD from the School of Mathematics and Statisti
 
 My adviser is [Quan Zheng](http://maths.hust.edu.cn/info/1094/2635.htm). 
 
+Major: Mathematics
+
 Research Interests: Mathematical theory of deep learning, Topological data analysis
 
 Hobbies: Plants, Jogging
@@ -15,8 +17,6 @@ Chinese Name: 邢雨晴
 -->
 
 ## Contact
-Address: Yifu Technology Building, 1037 Luoyu Road, Wuhan, China
-
 Email：2502864385@qq.com; yuqingxing@hust.edu.cn
 
 ## Education
